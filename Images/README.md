@@ -1,0 +1,1 @@
+This folder contains sample visualizations and results generated from the CARLA autonomous driving simulation. The figures illustrate trajectory tracking accuracy, speed tracking performance, and the throttle, brake, and steering commands produced by the closed-loop control system.
