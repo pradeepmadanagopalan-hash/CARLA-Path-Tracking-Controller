@@ -1,3 +1,5 @@
+# CARLA-Path-Tracking-Controller
+
 ⭐ **1. Introduction**
 
 Modern autonomous driving systems require robust trajectory tracking and control to follow planned routes accurately in simulation environments like CARLA.
